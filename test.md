@@ -3,3 +3,5 @@
 ** Тут будет код но это не точно **
 
 some python functional
+
+nwe python code
