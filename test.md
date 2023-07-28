@@ -7,4 +7,4 @@ some python functional
 nwe python code
 
 
-i am young junior and i whant more millions
+Это данные из ветки 2 кек
